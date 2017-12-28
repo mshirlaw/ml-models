@@ -2,7 +2,7 @@
 
 This repository is a collection of machine learning models which have been developed and trained using small datasets to provide examples of a varitey of machine learning techniques. This repository is a work in progress and is likely to be incoplete until additional models are added. 
 
-The current plan of attack is to follow the curriculum devised by Dr. Jason Brownlee on the Machine Learning Mastery [blog](https://machinelearningmastery.com/practice-machine-learning-with-small-in-memory-datasets-from-the-uci-machine-learning-repository/). The curriculum suggests identifying a selection of smalldata science problems and then analysing common algorithms used to address these problems.
+The current plan of attack is to follow the curriculum devised by Dr. Jason Brownlee on the Machine Learning Mastery [blog](https://machinelearningmastery.com/practice-machine-learning-with-small-in-memory-datasets-from-the-uci-machine-learning-repository/). The curriculum suggests identifying a selection of small data science problems and the algorithms commonly used to address these problems.
 
 Each dataset should be small to make development as simple as possible. The following problems and data sets have been identified as good learning tasks:
 
