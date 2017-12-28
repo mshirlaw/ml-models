@@ -6,44 +6,44 @@ The current plan of attack is to follow the curriculum devised by Dr. Jason Brow
 
 ### Binary Classification Problems
 
-Using the Pima·Indians·Diabetes·Data·Set
+Using the Pima Indians Diabetes Data Set
 
 - Part 1 - [Logistic Regression](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/Binary%20Classifiers%20%5BPart%201%5D.ipynb)
 - Part 2 - [Artificial Neural Networks](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/Binary%20Classifiers%20%5BPart%202%5D.ipynb)
 
-## Multi-Class·Classification
+### Multi-Class Classification
 
-Using the Iris·Data·Set
+Using the Iris Data Set
 
 - TBC
 
 ### Regression
 
-Using the Wine·Quality·Data·Set
+Using the Wine Quality Data Set
 
 - TBC
 
-### Categorical·Attributes
+### Categorical Attributes
 
-Using the Breast·Cancer·Data·Set
-
-- TBC
-
-### Integer·Attributes
-
-Using the Computer·Hardware·Data·Set
+Using the Breast Cancer Data Set
 
 - TBC
 
-### Classification·Cost·Function
+### Integer Attributes
+
+Using the Computer Hardware Data Set
+
+- TBC
+
+### Classification Cost Function
  
-Using the German·Credit·Data¬Set
+Using the German Credit Data¬Set
 
 - TBC
 
-### Dealing with Missing·Data
+### Dealing with Missing Data
 
-Using the Horse·Colic·Data·Set
+Using the Horse Colic Data Set
 
 - TBC
 
