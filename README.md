@@ -6,14 +6,14 @@ The current plan of attack is to follow the curriculum devised by Dr. Jason Brow
 
 ### Binary Classification Problems
 
-Using the Pima Indians Diabetes Data Set
+Using the [Pima Indians Diabetes](http://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes) Data Set
 
 - Part 1 - [Logistic Regression](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/Binary%20Classifiers%20%5BPart%201%5D.ipynb)
 - Part 2 - [Artificial Neural Networks](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/Binary%20Classifiers%20%5BPart%202%5D.ipynb)
 
 ### Multi-Class Classification
 
-Using the Iris Data Set
+Using the [Iris](http://archive.ics.uci.edu/ml/datasets/iris) Data Set
 
 - TBC
 
