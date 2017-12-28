@@ -10,8 +10,8 @@ Each dataset should be small to make development as simple as possible. The foll
 
 Using the [Pima Indians Diabetes](http://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes) Data Set
 
-- Part 1 - [Logistic Regression](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/Binary%20Classifiers%20%5BPart%201%5D.ipynb)
-- Part 2 - [Artificial Neural Networks](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/Binary%20Classifiers%20%5BPart%202%5D.ipynb)
+- Part 1 - [Logistic Regression](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/binary-classifiers-part-1.ipynb)
+- Part 2 - [Artificial Neural Networks](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/binary-classifiers-part-2.ipynb)
 
 ### Multi-Class Classification
 
