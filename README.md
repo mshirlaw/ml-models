@@ -8,8 +8,8 @@ The current plan of attack is to follow the curriculum devised by Dr. Jason Brow
 
 Using the Pima·Indians·Diabetes·Data·Set
 
-- Part 1 - [Logistic Regression](https://github.com/mshirlaw/ml-models/binary-classification/Binary Classifiers [Part 1].ipynb)
-- Part 2 - [Artificial Neural Networks](https://github.com/mshirlaw/ml-models/binary-classification/Binary Classifiers [Part 2].ipynb)
+- Part 1 - [Logistic Regression](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/Binary%20Classifiers%20%5BPart%201%5D.ipynb)
+- Part 2 - [Artificial Neural Networks](https://github.com/mshirlaw/ml-models/blob/master/binary-classification/Binary%20Classifiers%20%5BPart%202%5D.ipynb)
 
 ## Multi-Class·Classification
 
